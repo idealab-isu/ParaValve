@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE Xdmf SYSTEM "Xdmf.dtd" []>
+<Xdmf Version="3.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <Domain>
+    <Grid Name="mesh" GridType="Uniform">
+      <Topology NumberOfElements="1496760" TopologyType="Triangle" NodesPerElement="3">
+        <DataItem Dimensions="1496760 3" NumberType="UInt" Format="HDF">aorta_solid-stent-intersections.h5:/MeshFunction/0/mesh/topology</DataItem>
+      </Topology>
+      <Geometry GeometryType="XYZ">
+        <DataItem Dimensions="130023 3" Format="HDF">aorta_solid-stent-intersections.h5:/MeshFunction/0/mesh/geometry</DataItem>
+      </Geometry>
+      <Attribute Name="markers" AttributeType="Scalar" Center="Cell">
+        <DataItem Dimensions="1496760 1" Format="HDF">aorta_solid-stent-intersections.h5:/MeshFunction/0/values</DataItem>
+      </Attribute>
+    </Grid>
+  </Domain>
+</Xdmf>
