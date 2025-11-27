@@ -1,4 +1,6 @@
 # ParaValve
+The main code repository for the paper [ParaValve: An Open Source Framework for Parametric Design and Fluid-Structure Interaction Simulation of Bioprosthetic Heart Valves in Patient-Specific Aortic Geometries](https://www.sciencedirect.com/science/article/abs/pii/S0167839625000445).
+
 
 ## A framework for simulating bioprosthetic heart valves in patient-specific geometries
 
@@ -28,6 +30,23 @@ The ParaValve framework provides a pipeline for simulating heart valve function 
 ---
 
 TODO: How to install (developer)
+
+---
+
+# Paper
+If you are using this work, consider citing the original paper:
+[ParaValve: An Open Source Framework for Parametric Design and Fluid-Structure Interaction Simulation of Bioprosthetic Heart Valves in Patient-Specific Aortic Geometries](https://www.sciencedirect.com/science/article/abs/pii/S0167839625000445)
+
+---
+
+# Authors
+[Mahdi (Mehdi) Saraeian](https://scholar.google.com/citations?user=5AIP_yoAAAAJ&hl=en)
+
+[Ashton Corpuz](https://scholar.google.com/citations?user=6nMO5qsAAAAJ&hl=en)
+
+[Ming-Chen Hsu](https://scholar.google.com/citations?user=p0QKtBMAAAAJ&hl=en)
+
+[Adarsh Krishnamurthy](https://scholar.google.com/citations?user=iVTMSxoAAAAJ&hl=en)
 
 ---
 
